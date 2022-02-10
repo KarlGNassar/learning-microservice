@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6ee5e41-24c1-47bd-b29e-b631bdaea4d5": {
+      "ProjectGuid": "b6ee5e41-24c1-47bd-b29e-b631bdaea4d5",
+      "DisplayName": "PlatformService",
+      "ColorIndex": 0
+    },
+    "0ad984d4-340d-4248-8aa9-9b67df4bb0c3": {
+      "ProjectGuid": "0ad984d4-340d-4248-8aa9-9b67df4bb0c3",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "1c500b41-1a60-4d25-9de8-ecc63db26b56": {
+      "ProjectGuid": "1c500b41-1a60-4d25-9de8-ecc63db26b56",
+      "DisplayName": "K8S",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
