@@ -15,6 +15,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+Console.WriteLine($"--> command service endpoing {builder.Configuration["CommandService"]}");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
