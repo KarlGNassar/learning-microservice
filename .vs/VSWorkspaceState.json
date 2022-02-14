@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PlatformService",
-    "\\PlatformService\\PlatformService"
+    "\\K8S"
   ],
-  "SelectedNode": "\\PlatformService\\PlatformService.sln",
+  "SelectedNode": "\\K8S\\commands-depl.yaml",
   "PreviewInSolutionExplorer": false
 }
