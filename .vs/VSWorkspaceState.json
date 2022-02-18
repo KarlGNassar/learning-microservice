@@ -3,6 +3,6 @@
     "",
     "\\K8S"
   ],
-  "SelectedNode": "\\K8S\\platforms-depl.yaml",
+  "SelectedNode": "\\K8S\\mssql-plat-depl.yaml",
   "PreviewInSolutionExplorer": false
 }
